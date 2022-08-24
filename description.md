@@ -1,3 +1,3 @@
-La programación no sería tan divertida y poderosa si sólo pudieramos trabajar con una cosa por vez: muchas veces no vamos a querer simplemente operar un _string_, un booleano o un número, sino varios a la vez. 
+Programar não seria tão divertido e poderoso se pudéssemos trabalhar apenas com uma coisa de cada vez: muitas vezes não queremos operar apenas em uma _string_, um booleano ou um número, mas vários ao mesmo tempo.
 
-¡Llegó entonces el momento de aprender a tratar conjuntos de cosas! Presentamos a... ¡las listas! :grin:
+Então chegou o momento de aprender a lidar com conjuntos de coisas! Apresentamos... as listas! :grin:

@@ -1,5 +1,5 @@
-¡Felicitaciones! :clap:
+Parabéns! :clap:
 
-Acabas de conocer una estructura de datos que te permite agruparlos: ¡la lista! :grin:
+Você acabou de conhecer uma estrutura de dados que permite que eles sejam agrupados: a lista! :grin:
 
-También aprendiste qué datos puede tener dentro, cómo agregarle o sacarle elementos, conocer sus posiciones, obtener su longitud y los elementos por posición. :raised_hands:
+Você também aprendeu quais dados ele pode ter dentro, como adicionar ou remover elementos/itens dele, conhecer suas posições, obter seu comprimento e elementos por posição. :raised_hands:
