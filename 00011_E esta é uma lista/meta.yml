@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: 'True'
-name: Y esto, es una lista
+name: E esta é uma lista
