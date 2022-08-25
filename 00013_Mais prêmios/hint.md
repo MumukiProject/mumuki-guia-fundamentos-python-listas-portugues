@@ -1,0 +1,1 @@
+Como uma lista pode ser útil para nós aqui? Pense que a medalha que uma pessoa recebe está _diretamente relacionada_ à posição em que ocupa na competição.  :thought_balloon:
