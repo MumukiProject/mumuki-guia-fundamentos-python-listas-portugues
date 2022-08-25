@@ -3,7 +3,7 @@
     un_array = [1, 2, 3]
     otro_array = [4, 5]
   
-    trasladar(un_array, otro_array, 3)
+    transferir(un_array, otro_array, 3)
   
     self.assertEqual(un_array, [1, 2])
     self.assertEqual(otro_array, [4, 5, 3])
@@ -12,7 +12,7 @@
     un_array = [9, 8, 7]
     otro_array = [4, 5]
   
-    trasladar(un_array, otro_array, 7)
+    transferir(un_array, otro_array, 7)
   
     self.assertEqual(un_array, [9, 8])
     self.assertEqual(otro_array, [4, 5, 7])
