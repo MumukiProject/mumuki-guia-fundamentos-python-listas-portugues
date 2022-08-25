@@ -1,7 +1,7 @@
 Suponha que queremos representar o conjunto de nossas séries favoritas. Como poderíamos fazer isso?
 
 ```python
-series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "Recordando el Show de Alejandro Molina", "En Terapia", "Gambito de Dama"]
+series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "Recordando el Show de Alejandro Molina", "En Terapia", "O Gambito da Rainha"]
 series_favoritas_de_hector = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
 ```
 
