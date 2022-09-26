@@ -1,1 +1,1 @@
-¡Qué coherencia la de Python! :clap: Tira error cuando queremos acceder al índice de un elemento que no está en la lista, pero también cuando queremos acceder a un elemento en una posición que no tiene.
+Que coerência tem Python! :clap: Apresenta um erro quando queremos acessar o índice de um elemento que não está na lista e também quando queremos acessar um elemento em uma posição que não existe.
