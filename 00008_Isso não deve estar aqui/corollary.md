@@ -1,3 +1,3 @@
-¡Felicitaciones! :clap:
+Parabéns! :clap:
 
-Hasta ahora estuvimos agregando, quitando y consultando longitudes. ¿Qué más podremos hacer con las listas? ¡Seguinos! :muscle:
+Até agora, adicionamos, subtraímos e consultamos comprimentos. O que mais podemos fazer com listas? Siga-nos! :muscle:
