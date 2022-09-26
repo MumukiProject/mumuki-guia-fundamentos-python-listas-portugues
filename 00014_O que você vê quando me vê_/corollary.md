@@ -1,6 +1,6 @@
-¿Por qué tuvimos que poner las expresiones en ese orden específico?
+Por que tivemos que colocar as expressões nessa ordem específica?
 
-* Si preguntábamos primero por la posición de la serie en el ranking, y la serie no estaba en la lista, nuestro código iba a explotar. :boom:
-* En cambio, como lo hicimos, si la serie no está en el ranking (`not serie in ranking`) no hace falta preguntar su posición, porque ya sabemos que toda esa expresión es verdadera.
+* Se perguntássemos primeiro a posição da série no ranking e a série não estivesse na lista, nosso código explodiria.  :boom:
+* Por outro lado, como fizemos, se a série não estiver no ranking (`not serie in ranking`) não é necessário perguntar a posição, pois já sabemos que toda essa expressão é verdadeira.
 
-Recordemos que para que el operador `or` nos devuelva `True` alcanza con que una de las condiciones sea verdadera. Si la primera es verdadera, ¿para qué va a preguntar por la segunda? :sweat_smile:
+Lembre-se que para o operador `or` retornar `True` basta que uma das condições seja verdadeira. Se a primeira condição for verdadeira, para que perguntar sobre a segunda? :sweat_smile:                             
