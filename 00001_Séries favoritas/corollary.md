@@ -1,1 +1,1 @@
-¡Bien! Acabamos de ver 4 listas diferentes, con cantidades de _elementos_ diferentes. Pero, ¿notaste algo particular en la última lista? ¿Cuántos elementos hay? ¿Uno o dos?
+Bom! Acabamos de ver 4 listas diferentes, com quantidades de _elementos_ diferentes. Mas, notou algo particular na última lista? Há quantos elementos? Um ou dois?
