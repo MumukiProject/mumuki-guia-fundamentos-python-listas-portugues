@@ -1,3 +1,3 @@
-¡Exacto! Arrojará un error. :cry:
+Exato! Vai lançar um erro. :cry:
 
-Pero eso está bueno, ¿qué iba a hacer? :sweat_smile: Es preferible que si no existe el elemento nos notifique que hubo un problema a que nos devuelva cualquier cosa, ¿no? :grin:
+Mas isso é bom, o que eu ia fazer? :sweat_smile: Se o elemento não existir, é melhor notificar que houve um problema do que retornar qualquer coisa, certo? :grin: 
