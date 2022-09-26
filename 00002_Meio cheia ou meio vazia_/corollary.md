@@ -1,5 +1,4 @@
-¡Sí, se puede tener listas vacías! y se inicializan como las que vimos hasta ahora:
-
+Sim, você pode ter listas vazias! E elas são inicializadas como as que vimos até agora:
 ```python
-un_lista_vacia = []
+uma_lista_vazia = []
 ```
