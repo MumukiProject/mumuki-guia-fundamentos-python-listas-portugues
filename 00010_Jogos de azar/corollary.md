@@ -1,7 +1,7 @@
-Como ves, también podemos representar conjuntos de números o booleanos de igual forma: escribiéndolos entre corchetes y separados por comas. Podemos tener listas de números, de strings, de booleanos, etc. ¡Incluso listas de listas! :exploding_head:
+Como você pode ver, também podemos representar conjuntos de números ou booleanos da mesma forma: escrevendo-os entre colchetes e separados por vírgulas. Podemos ter listas de números, strings, booleanos, etc. Até listas de listas! :exploding_head:
 
 ```python
 numeros_de_loteria = [2, 11, 17, 32, 36, 39]
-tiradas_del_dado = [1, 6, 6, 2, 2, 4]
-salio_cara = [False, False, True, False]
+lados_do_dado = [1, 6, 6, 2, 2, 4]
+caiu_em_cara = [False, False, True, False]
 ```
