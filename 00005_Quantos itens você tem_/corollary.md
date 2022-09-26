@@ -1,3 +1,3 @@
-¡Genial! :grin:
+Excelente! :grin:
 
-Ya sabemos que al invocar `len` con un string nos da su cantidad de caracteres. Al invocarlo con una lista nos da la cantidad de elementos. 
+Já sabemos que ao invocar `len` com uma string obtemos a quantidade de caracteres. E ao invocar com uma lista obtemos a quantidade de elementos. 
