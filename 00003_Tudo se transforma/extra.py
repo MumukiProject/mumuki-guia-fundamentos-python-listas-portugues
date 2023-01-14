@@ -4,5 +4,5 @@ def pronto():
   if "Fundação" in livros:
     return "Muito bem!"
   else:
-    raise RuntimeError("Não se esqueça de adicionar 'Fundamentos' à lista de livros!")
+    raise RuntimeError("Não se esqueça de adicionar 'Fundação' à lista de livros!")
   
