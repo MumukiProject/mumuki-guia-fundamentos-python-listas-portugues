@@ -4,7 +4,7 @@ Outra coisa que queremos fazer com as listas é saber em que posição um elemen
 ム list.index(["para", "a", "grande",  "coloquei", "cuca"], "grande")
 2
 ム dias_uteis = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira"]
-ムlist.index(dias_uteis, "segunda-feira")
+ム list.index(dias_uteis, "segunda-feira")
 0
 ```
 
