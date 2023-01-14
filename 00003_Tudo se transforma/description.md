@@ -16,6 +16,5 @@ Como podemos ver, `list.append` adiciona um elemento à lista, o que aumenta o t
 > Descubra você mesmo: inspecione no console quais elementos contém `livros`, adicione `"Fundação"` e volte para inspecionar `livros` novamente.
 >
 > Há também uma função `list.remove`, que recebe uma lista e um elemento dela como parâmetro. Pesquise no console o que ela faz. :eyes:
-
 >
->Cuando termine, escreva `pronto()`.
+> Quando você terminar, escreva `pronto()`.
