@@ -1,2 +1,2 @@
-series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "En Terapia"]
-series_favoritas_de_hector = ["Game of Thrones", "Recordando el Show de Alejandro Molina", "House of Cards"]
+series_favoritas_de_ana = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
+series_favoritas_de_heitor = ["Black Mirror", "Breaking Bad", "3%", "En Terapia", "O Gambito da Rainha"]
