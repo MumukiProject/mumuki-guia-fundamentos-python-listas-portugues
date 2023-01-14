@@ -1,8 +1,6 @@
 Bem, já conversamos o suficiente; é hora de ação! :movie_camera:
 
-> Defina o procedimento `transferir`, que utilize duas listas e um elemento da primeira. `transferir` deve retirar o elemento da primeira lista e adicioná-lo à segunda.
->
-> Exemplo:
+> Defina o procedimento `transferir`, que utilize duas listas e um elemento da primeira. `transferir` deve retirar o elemento da primeira lista e adicioná-lo à segunda. Exemplo:
 >
 >```python
 > uma_lista = [1, 2, 3]
