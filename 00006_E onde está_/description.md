@@ -1,7 +1,7 @@
 Outra coisa que queremos fazer com as listas é saber em que posição um elemento está. Para fazer isso, usamos a função `list.index` da seguinte forma:
 
 ```python
-ム list.index(["para", "a", "grande",  "coloquei", "cuca"], "grande")
+ム list.index(["traçar", "de", "novo",  "a", "estrada"], "novo")
 2
 ム dias_uteis = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira"]
 ム list.index(dias_uteis, "segunda-feira")
