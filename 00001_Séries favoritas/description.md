@@ -5,7 +5,7 @@ series_favoritas_de_ana = ["Black Mirror", "Breaking Bad", "Recordando el Show d
 series_favoritas_de_hector = ["Game of Thrones", "Bojack Horseman", "Attack on Titan"]
 ```
 
-Como você pode ver, para representar um conjunto de strings, colocamos todas aquelas strings que nos interessam separadas por vírgulas e entre colchetes ([ e ]). Fácil, certo?
+Como você pode ver, para representar um conjunto de strings, colocamos todas aquelas strings que nos interessam separadas por vírgulas e entre colchetes (`[` e `]`). Fácil, certo?
 
 > Teste no console as seguintes opções:
 >
