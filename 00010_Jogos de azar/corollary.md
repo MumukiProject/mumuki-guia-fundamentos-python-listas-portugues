@@ -2,6 +2,6 @@ Como você pode ver, também podemos representar conjuntos de números ou boolea
 
 ```python
 numeros_de_loteria = [2, 11, 17, 32, 36, 39]
-lados_do_dado = [1, 6, 6, 2, 2, 4]
-caiu_em_cara = [False, False, True, False]
+jogadas_do_dado = [1, 6, 6, 2, 2, 4]
+caiu_cara = [False, False, True, False]
 ```
