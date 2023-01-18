@@ -1,4 +1,4 @@
-Bem, coisas estranhas parecem acontecer quando queremos saber a posição de um elemento que não está na lista. Então, para saber se um elemento pertence ou não a lista, bastaria ver se o Python lança um erro :boom:, ¿no?
+Bem, coisas estranhas parecem acontecer quando queremos saber a posição de um elemento que não está na lista. Então, para saber se um elemento pertence ou não à lista, bastaria ver se o Python lança um erro :boom:, certo?
 
 Temos boas notícias :newspaper:, Python tem uma maneira mais fácil de fazer isso!
 
