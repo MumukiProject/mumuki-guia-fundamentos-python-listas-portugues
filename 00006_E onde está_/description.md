@@ -8,7 +8,7 @@ Outra coisa que queremos fazer com as listas é saber em que posição um elemen
 0
 ```
 
-Como você pode ver, o curioso dessa função é que ela parece sempre retornar um a menos do esperado. Por exemplo, a palavra `"grande"` aparece em terceiro lugar, não em segundo; e `"segunda-feira"` é o primeiro dia útil, não zero. Quem criou o Python estava errado? :confused:
+Como você pode ver, o curioso dessa função é que ela parece sempre retornar um a menos do esperado. Por exemplo, a palavra `"novo"` aparece em terceiro lugar, não em segundo; e `"segunda-feira"` é o primeiro dia útil, não zero. Quem criou o Python estava errado? :confused:
 
 Não! :sweat_smile: O ponto é que em Python, como em muitas linguagens, as posições das listas começam pelo 0: o primeiro elemento está na posição 0, o segundo em 1, o terceiro em 2 e assim por diante.
 
