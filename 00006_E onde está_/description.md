@@ -10,14 +10,14 @@ Outra coisa que queremos fazer com as listas é saber em que posição um elemen
 
 Como você pode ver, o curioso dessa função é que ela parece sempre retornar um a menos do esperado. Por exemplo, a palavra `"novo"` aparece em terceiro lugar, não em segundo; e `"segunda-feira"` é o primeiro dia útil, não zero. Quem criou o Python estava errado? :confused:
 
-Não! :sweat_smile: O ponto é que em Python, como em muitas linguagens, as posições das listas começam pelo 0: o primeiro elemento está na posição 0, o segundo em 1, o terceiro em 2 e assim por diante.
+Não! :sweat_smile: O ponto é que em Python, como em muitas linguagens, as posições das listas começam pelo 0: o primeiro elemento está na posição 0, o segundo na 1, o terceiro na 2 e assim por diante.
 
 
-> E o que acontece se você passar por meio de um parâmetro a `list.index` um item que não tem? Descubra!
+> E o que acontece se você passar um item que não existe por meio de um parâmetro à `list.index`? Descubra!
 >
 > Teste o seguinte:
 >
 > ```python
-> ムlist.index(dias_uteis, "otávio")
+> ムlist.index(dias_úteis, "osvaldo")
 > ```
 
