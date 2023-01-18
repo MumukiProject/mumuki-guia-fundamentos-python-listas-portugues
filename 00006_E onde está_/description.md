@@ -18,6 +18,6 @@ Não! :sweat_smile: O ponto é que em Python, como em muitas linguagens, as posi
 > Teste o seguinte:
 >
 > ```python
-> ムlist.index(dias_úteis, "osvaldo")
+> ムlist.index(dias_uteis, "otávio")
 > ```
 
