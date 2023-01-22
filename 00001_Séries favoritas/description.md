@@ -14,7 +14,7 @@ Como você pode ver, para representar um conjunto de strings, colocamos todas aq
 ```
 >
 >``` python
-ムseries_favoritas_de_hetor
+ムseries_favoritas_de_heitor
 ```
 >
 >``` python
