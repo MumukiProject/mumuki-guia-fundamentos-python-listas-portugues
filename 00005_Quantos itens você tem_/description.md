@@ -9,7 +9,7 @@ Vamos começar com algo fácil: você se lembra do `len`? Também funciona com a
 ```
 >
 >``` python
-ムlen([4, 3])
+ムlen([4, 4])
 ```
 >
 >``` python
